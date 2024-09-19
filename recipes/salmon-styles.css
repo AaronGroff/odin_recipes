@@ -1,0 +1,22 @@
+.headers {
+    font-weight: bolder;
+    color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px
+}
+#para {
+    color: peru;
+    font-style: italic
+}
+.header2 {
+    color: blue;
+    font-size: 24px
+}
+.header3 {
+    color: yellow;
+    font-size: 24px
+}
+.lists {
+    font-style: italic;
+    background-color: green
+}

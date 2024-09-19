@@ -1,0 +1,19 @@
+.headers {
+    font-weight: bolder;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic
+}
+.header2 {
+    color: aquamarine
+}
+#desc {
+    color: bisque
+}
+.header3 {
+    color: blueviolet
+}
+.lists {
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
